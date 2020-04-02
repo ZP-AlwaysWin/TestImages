@@ -1,2 +1,2 @@
-FROM gcr.io/heptio-images/eventrouter:latest
+FROM gcr.io/google_containers/liveness:latest
 MAINTAINER moons
